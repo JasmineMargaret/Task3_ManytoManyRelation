@@ -45,6 +45,7 @@ namespace Task3_ManytoManyRelation
                                       policy.AllowAnyMethod();//while posting
                                   });
             });
+            services.AddRazorPages();
             services.AddControllers();
             services.AddControllersWithViews()
     .AddNewtonsoftJson(options =>
@@ -68,6 +69,7 @@ namespace Task3_ManytoManyRelation
                 app.UseSwagger();
                 app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "Task3_ManytoManyRelation v1"));
             }
+            app.UseStaticFiles();
 
             app.UseHttpsRedirection();
 
@@ -83,6 +85,7 @@ namespace Task3_ManytoManyRelation
                          name: "default",
                          pattern: "{controller=Home}/{action=Index}/{id?}");
                 endpoints.MapControllers();
+                endpoints.MapRazorPages();
             });
         }
     }

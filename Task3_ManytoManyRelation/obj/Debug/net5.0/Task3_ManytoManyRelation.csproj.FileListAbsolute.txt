@@ -93,10 +93,6 @@ C:\Users\jasmine\source\repos\Task3_ManytoManyRelation\Task3_ManytoManyRelation\
 C:\Users\jasmine\source\repos\Task3_ManytoManyRelation\Task3_ManytoManyRelation\obj\Debug\net5.0\Task3_ManytoManyRelation.Views.pdb
 C:\Users\jasmine\source\repos\Task3_ManytoManyRelation\Task3_ManytoManyRelation\obj\Debug\net5.0\Razor\Views\EmployeeSkillsView\EmpIndex.cshtml.g.cs
 C:\Users\jasmine\source\repos\Task3_ManytoManyRelation\Task3_ManytoManyRelation\obj\Debug\net5.0\Razor\Views\EmployeeSkillsView\SkilIndex.cshtml.g.cs
-C:\Users\jasmine\source\repos\Task3_ManytoManyRelation\Task3_ManytoManyRelation\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
-C:\Users\jasmine\source\repos\Task3_ManytoManyRelation\Task3_ManytoManyRelation\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
-C:\Users\jasmine\source\repos\Task3_ManytoManyRelation\Task3_ManytoManyRelation\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
 C:\Users\jasmine\source\repos\Task3_ManytoManyRelation\Task3_ManytoManyRelation\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
 C:\Users\jasmine\source\repos\Task3_ManytoManyRelation\Task3_ManytoManyRelation\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
-C:\Users\jasmine\source\repos\Task3_ManytoManyRelation\Task3_ManytoManyRelation\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
-C:\Users\jasmine\source\repos\Task3_ManytoManyRelation\Task3_ManytoManyRelation\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\jasmine\source\repos\Task3_ManytoManyRelation\Task3_ManytoManyRelation\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs

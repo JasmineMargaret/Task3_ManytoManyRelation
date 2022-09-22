@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task3_ManytoManyRelation", "Task3_ManytoManyRelation\Task3_ManytoManyRelation.csproj", "{EC65DF83-CAEC-456B-84D8-DD18EB64CBC5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task3_ManytoManyRelation", "Task3_ManytoManyRelation\Task3_ManytoManyRelation.csproj", "{EC65DF83-CAEC-456B-84D8-DD18EB64CBC5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
